@@ -1,0 +1,16 @@
+# Python & Virtual environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+*.db
+*.sqlite3
+
+# Node.js
+node_modules/
+dist/
+build/
+.DS_Store
+*.log
